@@ -8,6 +8,7 @@ public class Main {
 //        Den här texten är skriven i en annan branch som heter local branch1
 
 //        Den här texten är gjord på localbranch2
+//        lite mer text skriven i localbranch2
 
     }
 }

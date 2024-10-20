@@ -5,5 +5,7 @@ public class Main {
 
 //        Min första rad kod lokalt.
 
+//        Den här texten är skriven i en annan branch som heter local branch2
+
     }
 }
